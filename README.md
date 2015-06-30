@@ -1,4 +1,7 @@
-<<<<<<< HEAD
+# molebop
+A 2 player game for bopping moles.
+
+=======
 # atom
 #### a &lt;canvas&gt; game framework that does as little as possible
 
@@ -30,7 +33,3 @@ game.run()
 <script src="atom.js"></script>
 <script src="game.js"></script>
 ```
-=======
-# molebop
-A 2 player game for bopping moles. 
->>>>>>> de4b227e5860f853b30fa5ad09441d8e4106ed8a
